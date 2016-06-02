@@ -8,7 +8,7 @@ See SpiralingLaser.pdf for details.
 
 
 See Also:
-
+http://www.instructables.com/id/Spiraling-Lasers/
 http://www.instructables.com/id/Laser-Lumia-Light-Show/
 
 
